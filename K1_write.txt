@@ -1,0 +1,12 @@
+
+			Car Model:  AUDI
+			Car Number Plate:  480777232
+			-----------------------------
+
+			Car Model:  
+			Car Number Plate:  198
+			-----------------------------
+
+			Car Model:  kia
+			Car Number Plate:  221
+			-----------------------------
